@@ -1,0 +1,815 @@
+INFO: [2024-11-18 18:53:03,071]: ----------SETTINGS----------
+INFO: [2024-11-18 18:53:03,071]: Map: /Game/Carla/Maps/Town01
+INFO: [2024-11-18 18:53:03,071]: Number of vehicles: 154
+INFO: [2024-11-18 18:53:03,071]: Number of parking vehicles: 255
+INFO: [2024-11-18 18:53:03,071]: Number of props: 0
+INFO: [2024-11-18 18:53:03,071]: Number of pedestrians: 0
+INFO: [2024-11-18 18:53:03,071]: Sensor image width: 1242px
+INFO: [2024-11-18 18:53:03,071]: Sensor image height: 375px
+INFO: [2024-11-18 18:53:03,071]: Sensor field of view: 82.59
+INFO: [2024-11-18 18:53:03,071]: Total number of frames to be saved: 100
+INFO: [2024-11-18 18:53:03,071]: Save data to disk: True
+INFO: [2024-11-18 18:53:03,071]: Save bounding box to camera image 0: False
+INFO: [2024-11-18 18:53:03,071]: ----------SETTINGS----------
+WARNING: Version mismatch detected: You are trying to connect to a simulator that might be incompatible with this API 
+WARNING: Client API version     = 0.9.15-dirty 
+WARNING: Simulator API version  = 0.9.15-1-g614d4338c 
+DEBUG: [2024-11-18 18:53:12,880]: Spawned 0 parking vehicles.
+DEBUG: [2024-11-18 18:53:12,885]: Spawned 0 props.
+DEBUG: [2024-11-18 18:53:13,862]: Spawned 154 vehicles, 0 walkers.
+DEBUG: [2024-11-18 18:53:14,073]: no new boxes found
+DEBUG: [2024-11-18 18:53:15,381]: no new boxes found
+DEBUG: [2024-11-18 18:53:15,628]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:53:16,952]: no new boxes found
+DEBUG: [2024-11-18 18:53:17,125]: no new boxes found
+DEBUG: [2024-11-18 18:53:17,370]: Written sensor data to disk, number of BBs: 6
+DEBUG: [2024-11-18 18:53:18,792]: no new boxes found
+DEBUG: [2024-11-18 18:53:20,274]: no new boxes found
+DEBUG: [2024-11-18 18:53:21,747]: no new boxes found
+DEBUG: [2024-11-18 18:53:23,201]: no new boxes found
+DEBUG: [2024-11-18 18:53:24,682]: no new boxes found
+DEBUG: [2024-11-18 18:53:26,163]: no new boxes found
+DEBUG: [2024-11-18 18:53:27,619]: no new boxes found
+DEBUG: [2024-11-18 18:53:29,069]: no new boxes found
+DEBUG: [2024-11-18 18:53:30,527]: no new boxes found
+DEBUG: [2024-11-18 18:53:31,953]: no new boxes found
+DEBUG: [2024-11-18 18:53:33,420]: no new boxes found
+DEBUG: [2024-11-18 18:53:34,871]: no new boxes found
+DEBUG: [2024-11-18 18:53:36,276]: no new boxes found
+DEBUG: [2024-11-18 18:53:37,678]: no new boxes found
+DEBUG: [2024-11-18 18:53:39,080]: no new boxes found
+DEBUG: [2024-11-18 18:53:40,441]: no new boxes found
+DEBUG: [2024-11-18 18:53:41,839]: no new boxes found
+DEBUG: [2024-11-18 18:53:43,257]: no new boxes found
+DEBUG: [2024-11-18 18:53:44,629]: no new boxes found
+DEBUG: [2024-11-18 18:53:46,027]: no new boxes found
+DEBUG: [2024-11-18 18:53:47,437]: no new boxes found
+DEBUG: [2024-11-18 18:53:48,815]: no new boxes found
+DEBUG: [2024-11-18 18:53:50,218]: no new boxes found
+DEBUG: [2024-11-18 18:53:50,450]: Written sensor data to disk, number of BBs: 8
+DEBUG: [2024-11-18 18:53:51,837]: no new boxes found
+DEBUG: [2024-11-18 18:53:52,022]: no new boxes found
+DEBUG: [2024-11-18 18:53:52,241]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:53:53,650]: no new boxes found
+DEBUG: [2024-11-18 18:53:53,820]: no new boxes found
+DEBUG: [2024-11-18 18:53:54,050]: Written sensor data to disk, number of BBs: 8
+DEBUG: [2024-11-18 18:53:55,394]: no new boxes found
+DEBUG: [2024-11-18 18:53:55,563]: no new boxes found
+DEBUG: [2024-11-18 18:53:55,798]: Written sensor data to disk, number of BBs: 8
+DEBUG: [2024-11-18 18:53:57,316]: no new boxes found
+DEBUG: [2024-11-18 18:53:57,515]: no new boxes found
+DEBUG: [2024-11-18 18:53:57,776]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:53:59,251]: no new boxes found
+DEBUG: [2024-11-18 18:53:59,428]: no new boxes found
+DEBUG: [2024-11-18 18:53:59,681]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:54:01,053]: no new boxes found
+DEBUG: [2024-11-18 18:54:01,220]: no new boxes found
+DEBUG: [2024-11-18 18:54:01,470]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:54:02,827]: no new boxes found
+DEBUG: [2024-11-18 18:54:02,988]: no new boxes found
+DEBUG: [2024-11-18 18:54:03,222]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:54:04,489]: no new boxes found
+DEBUG: [2024-11-18 18:54:04,644]: no new boxes found
+DEBUG: [2024-11-18 18:54:04,897]: Written sensor data to disk, number of BBs: 6
+DEBUG: [2024-11-18 18:54:06,227]: no new boxes found
+DEBUG: [2024-11-18 18:54:06,389]: no new boxes found
+DEBUG: [2024-11-18 18:54:06,640]: Written sensor data to disk, number of BBs: 6
+DEBUG: [2024-11-18 18:54:07,910]: no new boxes found
+DEBUG: [2024-11-18 18:54:08,069]: no new boxes found
+DEBUG: [2024-11-18 18:54:08,330]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:54:09,612]: no new boxes found
+DEBUG: [2024-11-18 18:54:10,880]: no new boxes found
+DEBUG: [2024-11-18 18:54:12,143]: no new boxes found
+DEBUG: [2024-11-18 18:54:13,397]: no new boxes found
+DEBUG: [2024-11-18 18:54:14,665]: no new boxes found
+DEBUG: [2024-11-18 18:54:15,937]: no new boxes found
+DEBUG: [2024-11-18 18:54:17,215]: no new boxes found
+DEBUG: [2024-11-18 18:54:18,474]: no new boxes found
+DEBUG: [2024-11-18 18:54:19,763]: no new boxes found
+DEBUG: [2024-11-18 18:54:21,048]: no new boxes found
+DEBUG: [2024-11-18 18:54:22,326]: no new boxes found
+DEBUG: [2024-11-18 18:54:23,619]: no new boxes found
+DEBUG: [2024-11-18 18:54:24,887]: no new boxes found
+DEBUG: [2024-11-18 18:54:26,166]: no new boxes found
+DEBUG: [2024-11-18 18:54:27,444]: no new boxes found
+DEBUG: [2024-11-18 18:54:28,714]: no new boxes found
+DEBUG: [2024-11-18 18:54:29,980]: no new boxes found
+DEBUG: [2024-11-18 18:54:31,238]: no new boxes found
+DEBUG: [2024-11-18 18:54:32,478]: no new boxes found
+DEBUG: [2024-11-18 18:54:33,796]: no new boxes found
+DEBUG: [2024-11-18 18:54:35,081]: no new boxes found
+DEBUG: [2024-11-18 18:54:36,348]: no new boxes found
+DEBUG: [2024-11-18 18:54:37,596]: no new boxes found
+DEBUG: [2024-11-18 18:54:38,878]: no new boxes found
+DEBUG: [2024-11-18 18:54:40,164]: no new boxes found
+DEBUG: [2024-11-18 18:54:41,443]: no new boxes found
+DEBUG: [2024-11-18 18:54:42,732]: no new boxes found
+DEBUG: [2024-11-18 18:54:44,056]: no new boxes found
+DEBUG: [2024-11-18 18:54:45,333]: no new boxes found
+DEBUG: [2024-11-18 18:54:46,594]: no new boxes found
+DEBUG: [2024-11-18 18:54:47,875]: no new boxes found
+DEBUG: [2024-11-18 18:54:49,149]: no new boxes found
+DEBUG: [2024-11-18 18:54:50,393]: no new boxes found
+DEBUG: [2024-11-18 18:54:51,642]: no new boxes found
+DEBUG: [2024-11-18 18:54:52,050]: no new boxes found
+DEBUG: [2024-11-18 18:54:52,301]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:54:53,596]: no new boxes found
+DEBUG: [2024-11-18 18:54:53,771]: no new boxes found
+DEBUG: [2024-11-18 18:54:54,029]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:54:55,256]: no new boxes found
+DEBUG: [2024-11-18 18:54:55,415]: no new boxes found
+DEBUG: [2024-11-18 18:54:55,691]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:54:56,922]: no new boxes found
+DEBUG: [2024-11-18 18:54:57,082]: no new boxes found
+DEBUG: [2024-11-18 18:54:57,340]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:54:58,545]: no new boxes found
+DEBUG: [2024-11-18 18:54:58,701]: no new boxes found
+DEBUG: [2024-11-18 18:54:58,928]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:55:00,162]: no new boxes found
+DEBUG: [2024-11-18 18:55:00,307]: no new boxes found
+DEBUG: [2024-11-18 18:55:00,538]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:55:01,713]: no new boxes found
+DEBUG: [2024-11-18 18:55:01,865]: no new boxes found
+DEBUG: [2024-11-18 18:55:02,128]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:55:03,310]: no new boxes found
+DEBUG: [2024-11-18 18:55:03,466]: no new boxes found
+DEBUG: [2024-11-18 18:55:03,707]: Written sensor data to disk, number of BBs: 3
+DEBUG: [2024-11-18 18:55:05,020]: no new boxes found
+DEBUG: [2024-11-18 18:55:05,178]: no new boxes found
+DEBUG: [2024-11-18 18:55:05,420]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:55:06,655]: no new boxes found
+DEBUG: [2024-11-18 18:55:06,794]: no new boxes found
+DEBUG: [2024-11-18 18:55:06,932]: no new boxes found
+DEBUG: [2024-11-18 18:55:07,075]: no new boxes found
+DEBUG: [2024-11-18 18:55:07,212]: no new boxes found
+DEBUG: [2024-11-18 18:55:07,354]: no new boxes found
+DEBUG: [2024-11-18 18:55:07,494]: no new boxes found
+DEBUG: [2024-11-18 18:55:07,648]: no new boxes found
+DEBUG: [2024-11-18 18:55:07,807]: no new boxes found
+DEBUG: [2024-11-18 18:55:07,949]: no new boxes found
+DEBUG: [2024-11-18 18:55:08,095]: no new boxes found
+DEBUG: [2024-11-18 18:55:08,234]: no new boxes found
+DEBUG: [2024-11-18 18:55:08,370]: no new boxes found
+DEBUG: [2024-11-18 18:55:08,509]: no new boxes found
+DEBUG: [2024-11-18 18:55:08,665]: no new boxes found
+DEBUG: [2024-11-18 18:55:08,808]: no new boxes found
+DEBUG: [2024-11-18 18:55:08,942]: no new boxes found
+DEBUG: [2024-11-18 18:55:09,077]: no new boxes found
+DEBUG: [2024-11-18 18:55:09,222]: no new boxes found
+DEBUG: [2024-11-18 18:55:09,367]: no new boxes found
+DEBUG: [2024-11-18 18:55:09,505]: no new boxes found
+DEBUG: [2024-11-18 18:55:09,641]: no new boxes found
+DEBUG: [2024-11-18 18:55:09,790]: no new boxes found
+DEBUG: [2024-11-18 18:55:09,941]: no new boxes found
+DEBUG: [2024-11-18 18:55:10,078]: no new boxes found
+DEBUG: [2024-11-18 18:55:10,224]: no new boxes found
+DEBUG: [2024-11-18 18:55:10,363]: no new boxes found
+DEBUG: [2024-11-18 18:55:10,503]: no new boxes found
+DEBUG: [2024-11-18 18:55:10,639]: no new boxes found
+DEBUG: [2024-11-18 18:55:10,794]: no new boxes found
+DEBUG: [2024-11-18 18:55:11,051]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:55:12,186]: no new boxes found
+DEBUG: [2024-11-18 18:55:12,324]: no new boxes found
+DEBUG: [2024-11-18 18:55:12,575]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:55:13,674]: no new boxes found
+DEBUG: [2024-11-18 18:55:13,807]: no new boxes found
+DEBUG: [2024-11-18 18:55:14,051]: Written sensor data to disk, number of BBs: 2
+DEBUG: [2024-11-18 18:55:15,167]: no new boxes found
+DEBUG: [2024-11-18 18:55:15,313]: no new boxes found
+DEBUG: [2024-11-18 18:55:15,561]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:55:16,696]: no new boxes found
+DEBUG: [2024-11-18 18:55:16,839]: no new boxes found
+DEBUG: [2024-11-18 18:55:17,083]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:55:18,214]: no new boxes found
+DEBUG: [2024-11-18 18:55:18,352]: no new boxes found
+DEBUG: [2024-11-18 18:55:18,592]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:55:19,730]: no new boxes found
+DEBUG: [2024-11-18 18:55:19,870]: no new boxes found
+DEBUG: [2024-11-18 18:55:20,142]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:55:21,280]: no new boxes found
+DEBUG: [2024-11-18 18:55:21,420]: no new boxes found
+DEBUG: [2024-11-18 18:55:21,666]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:55:22,779]: no new boxes found
+DEBUG: [2024-11-18 18:55:22,936]: no new boxes found
+DEBUG: [2024-11-18 18:55:23,204]: Written sensor data to disk, number of BBs: 6
+DEBUG: [2024-11-18 18:55:24,271]: no new boxes found
+DEBUG: [2024-11-18 18:55:24,407]: no new boxes found
+DEBUG: [2024-11-18 18:55:24,700]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:55:25,743]: no new boxes found
+DEBUG: [2024-11-18 18:55:25,877]: no new boxes found
+DEBUG: [2024-11-18 18:55:26,141]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:55:27,219]: no new boxes found
+DEBUG: [2024-11-18 18:55:27,359]: no new boxes found
+DEBUG: [2024-11-18 18:55:27,628]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:55:28,795]: no new boxes found
+DEBUG: [2024-11-18 18:55:29,892]: no new boxes found
+DEBUG: [2024-11-18 18:55:30,985]: no new boxes found
+DEBUG: [2024-11-18 18:55:32,077]: no new boxes found
+DEBUG: [2024-11-18 18:55:33,182]: no new boxes found
+DEBUG: [2024-11-18 18:55:34,286]: no new boxes found
+DEBUG: [2024-11-18 18:55:35,383]: no new boxes found
+DEBUG: [2024-11-18 18:55:36,481]: no new boxes found
+DEBUG: [2024-11-18 18:55:37,054]: no new boxes found
+DEBUG: [2024-11-18 18:55:37,321]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:55:38,456]: no new boxes found
+DEBUG: [2024-11-18 18:55:38,599]: no new boxes found
+DEBUG: [2024-11-18 18:55:38,875]: Written sensor data to disk, number of BBs: 6
+DEBUG: [2024-11-18 18:55:39,939]: no new boxes found
+DEBUG: [2024-11-18 18:55:40,076]: no new boxes found
+DEBUG: [2024-11-18 18:55:40,345]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:55:41,431]: no new boxes found
+DEBUG: [2024-11-18 18:55:41,574]: no new boxes found
+DEBUG: [2024-11-18 18:55:41,854]: Written sensor data to disk, number of BBs: 3
+DEBUG: [2024-11-18 18:55:42,948]: no new boxes found
+DEBUG: [2024-11-18 18:55:43,090]: no new boxes found
+DEBUG: [2024-11-18 18:55:43,374]: Written sensor data to disk, number of BBs: 2
+DEBUG: [2024-11-18 18:55:44,471]: no new boxes found
+DEBUG: [2024-11-18 18:55:44,606]: no new boxes found
+DEBUG: [2024-11-18 18:55:44,915]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:55:45,975]: no new boxes found
+DEBUG: [2024-11-18 18:55:46,106]: no new boxes found
+DEBUG: [2024-11-18 18:55:46,417]: Written sensor data to disk, number of BBs: 2
+DEBUG: [2024-11-18 18:55:47,522]: no new boxes found
+DEBUG: [2024-11-18 18:55:47,657]: no new boxes found
+DEBUG: [2024-11-18 18:55:47,801]: no new boxes found
+DEBUG: [2024-11-18 18:55:47,936]: no new boxes found
+DEBUG: [2024-11-18 18:55:48,077]: no new boxes found
+DEBUG: [2024-11-18 18:55:48,228]: no new boxes found
+DEBUG: [2024-11-18 18:55:48,373]: no new boxes found
+DEBUG: [2024-11-18 18:55:48,515]: no new boxes found
+DEBUG: [2024-11-18 18:55:48,648]: no new boxes found
+DEBUG: [2024-11-18 18:55:48,787]: no new boxes found
+DEBUG: [2024-11-18 18:55:48,925]: no new boxes found
+DEBUG: [2024-11-18 18:55:49,223]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:55:50,432]: no new boxes found
+DEBUG: [2024-11-18 18:55:50,581]: no new boxes found
+DEBUG: [2024-11-18 18:55:50,868]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 18:55:52,105]: no new boxes found
+DEBUG: [2024-11-18 18:55:52,261]: no new boxes found
+DEBUG: [2024-11-18 18:55:52,534]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 18:55:53,869]: no new boxes found
+DEBUG: [2024-11-18 18:55:54,028]: no new boxes found
+DEBUG: [2024-11-18 18:55:54,313]: Written sensor data to disk, number of BBs: 12
+DEBUG: [2024-11-18 18:55:55,582]: no new boxes found
+DEBUG: [2024-11-18 18:55:55,754]: no new boxes found
+DEBUG: [2024-11-18 18:55:56,011]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 18:55:57,305]: no new boxes found
+DEBUG: [2024-11-18 18:55:57,460]: no new boxes found
+DEBUG: [2024-11-18 18:55:57,722]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 18:55:59,027]: no new boxes found
+DEBUG: [2024-11-18 18:55:59,185]: no new boxes found
+DEBUG: [2024-11-18 18:55:59,451]: Written sensor data to disk, number of BBs: 10
+DEBUG: [2024-11-18 18:56:00,734]: no new boxes found
+DEBUG: [2024-11-18 18:56:02,021]: no new boxes found
+DEBUG: [2024-11-18 18:56:03,304]: no new boxes found
+DEBUG: [2024-11-18 18:56:04,585]: no new boxes found
+DEBUG: [2024-11-18 18:56:05,877]: no new boxes found
+DEBUG: [2024-11-18 18:56:07,153]: no new boxes found
+DEBUG: [2024-11-18 18:56:08,470]: no new boxes found
+DEBUG: [2024-11-18 18:56:09,770]: no new boxes found
+DEBUG: [2024-11-18 18:56:11,049]: no new boxes found
+DEBUG: [2024-11-18 18:56:12,331]: no new boxes found
+DEBUG: [2024-11-18 18:56:13,562]: no new boxes found
+DEBUG: [2024-11-18 18:56:14,848]: no new boxes found
+DEBUG: [2024-11-18 18:56:16,084]: no new boxes found
+DEBUG: [2024-11-18 18:56:17,359]: no new boxes found
+DEBUG: [2024-11-18 18:56:18,692]: no new boxes found
+DEBUG: [2024-11-18 18:56:19,980]: no new boxes found
+DEBUG: [2024-11-18 18:56:21,256]: no new boxes found
+DEBUG: [2024-11-18 18:56:22,050]: no new boxes found
+DEBUG: [2024-11-18 18:56:22,282]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:56:23,566]: no new boxes found
+DEBUG: [2024-11-18 18:56:23,725]: no new boxes found
+DEBUG: [2024-11-18 18:56:23,939]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:56:25,173]: no new boxes found
+DEBUG: [2024-11-18 18:56:25,332]: no new boxes found
+DEBUG: [2024-11-18 18:56:25,593]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:56:26,799]: no new boxes found
+DEBUG: [2024-11-18 18:56:26,961]: no new boxes found
+DEBUG: [2024-11-18 18:56:27,202]: Written sensor data to disk, number of BBs: 8
+DEBUG: [2024-11-18 18:56:28,376]: no new boxes found
+DEBUG: [2024-11-18 18:56:28,519]: no new boxes found
+DEBUG: [2024-11-18 18:56:28,774]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:56:29,920]: no new boxes found
+DEBUG: [2024-11-18 18:56:30,068]: no new boxes found
+DEBUG: [2024-11-18 18:56:30,334]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:56:31,477]: no new boxes found
+DEBUG: [2024-11-18 18:56:31,630]: no new boxes found
+DEBUG: [2024-11-18 18:56:31,899]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:56:33,048]: no new boxes found
+DEBUG: [2024-11-18 18:56:34,223]: no new boxes found
+DEBUG: [2024-11-18 18:56:35,373]: no new boxes found
+DEBUG: [2024-11-18 18:56:36,519]: no new boxes found
+DEBUG: [2024-11-18 18:56:37,663]: no new boxes found
+DEBUG: [2024-11-18 18:56:38,821]: no new boxes found
+DEBUG: [2024-11-18 18:56:40,040]: no new boxes found
+DEBUG: [2024-11-18 18:56:41,310]: no new boxes found
+DEBUG: [2024-11-18 18:56:42,566]: no new boxes found
+DEBUG: [2024-11-18 18:56:43,810]: no new boxes found
+DEBUG: [2024-11-18 18:56:45,102]: no new boxes found
+DEBUG: [2024-11-18 18:56:46,340]: no new boxes found
+DEBUG: [2024-11-18 18:56:47,580]: no new boxes found
+DEBUG: [2024-11-18 18:56:48,840]: no new boxes found
+DEBUG: [2024-11-18 18:56:50,057]: no new boxes found
+DEBUG: [2024-11-18 18:56:51,306]: no new boxes found
+DEBUG: [2024-11-18 18:56:52,542]: no new boxes found
+DEBUG: [2024-11-18 18:56:53,831]: no new boxes found
+DEBUG: [2024-11-18 18:56:55,234]: no new boxes found
+DEBUG: [2024-11-18 18:56:56,627]: no new boxes found
+DEBUG: [2024-11-18 18:56:57,990]: no new boxes found
+DEBUG: [2024-11-18 18:56:59,358]: no new boxes found
+DEBUG: [2024-11-18 18:57:00,680]: no new boxes found
+DEBUG: [2024-11-18 18:57:02,000]: no new boxes found
+DEBUG: [2024-11-18 18:57:03,315]: no new boxes found
+DEBUG: [2024-11-18 18:57:04,566]: no new boxes found
+DEBUG: [2024-11-18 18:57:05,753]: no new boxes found
+DEBUG: [2024-11-18 18:57:07,035]: no new boxes found
+DEBUG: [2024-11-18 18:57:08,274]: no new boxes found
+DEBUG: [2024-11-18 18:57:09,491]: no new boxes found
+DEBUG: [2024-11-18 18:57:10,731]: no new boxes found
+DEBUG: [2024-11-18 18:57:11,922]: no new boxes found
+DEBUG: [2024-11-18 18:57:13,106]: no new boxes found
+DEBUG: [2024-11-18 18:57:14,218]: no new boxes found
+DEBUG: [2024-11-18 18:57:14,491]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 18:57:15,698]: no new boxes found
+DEBUG: [2024-11-18 18:57:15,844]: no new boxes found
+DEBUG: [2024-11-18 18:57:16,105]: Written sensor data to disk, number of BBs: 10
+DEBUG: [2024-11-18 18:57:17,276]: no new boxes found
+DEBUG: [2024-11-18 18:57:17,416]: no new boxes found
+DEBUG: [2024-11-18 18:57:17,669]: Written sensor data to disk, number of BBs: 8
+DEBUG: [2024-11-18 18:57:18,796]: no new boxes found
+DEBUG: [2024-11-18 18:57:18,935]: no new boxes found
+DEBUG: [2024-11-18 18:57:19,196]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:57:20,339]: no new boxes found
+DEBUG: [2024-11-18 18:57:20,483]: no new boxes found
+DEBUG: [2024-11-18 18:57:20,731]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:57:21,901]: no new boxes found
+DEBUG: [2024-11-18 18:57:22,051]: no new boxes found
+DEBUG: [2024-11-18 18:57:22,300]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:57:23,653]: no new boxes found
+DEBUG: [2024-11-18 18:57:23,831]: no new boxes found
+DEBUG: [2024-11-18 18:57:24,046]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:57:25,565]: no new boxes found
+DEBUG: [2024-11-18 18:57:25,751]: no new boxes found
+DEBUG: [2024-11-18 18:57:25,966]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:57:27,482]: no new boxes found
+DEBUG: [2024-11-18 18:57:27,645]: no new boxes found
+DEBUG: [2024-11-18 18:57:27,865]: Written sensor data to disk, number of BBs: 3
+DEBUG: [2024-11-18 18:57:29,347]: no new boxes found
+DEBUG: [2024-11-18 18:57:29,520]: no new boxes found
+DEBUG: [2024-11-18 18:57:29,751]: Written sensor data to disk, number of BBs: 3
+DEBUG: [2024-11-18 18:57:31,173]: no new boxes found
+DEBUG: [2024-11-18 18:57:31,353]: no new boxes found
+DEBUG: [2024-11-18 18:57:31,589]: Written sensor data to disk, number of BBs: 2
+DEBUG: [2024-11-18 18:57:33,022]: no new boxes found
+DEBUG: [2024-11-18 18:57:33,196]: no new boxes found
+DEBUG: [2024-11-18 18:57:33,419]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:57:34,824]: no new boxes found
+DEBUG: [2024-11-18 18:57:34,993]: no new boxes found
+DEBUG: [2024-11-18 18:57:35,161]: no new boxes found
+DEBUG: [2024-11-18 18:57:35,328]: no new boxes found
+DEBUG: [2024-11-18 18:57:35,502]: no new boxes found
+DEBUG: [2024-11-18 18:57:35,672]: no new boxes found
+DEBUG: [2024-11-18 18:57:35,852]: no new boxes found
+DEBUG: [2024-11-18 18:57:36,034]: no new boxes found
+DEBUG: [2024-11-18 18:57:36,205]: no new boxes found
+DEBUG: [2024-11-18 18:57:36,380]: no new boxes found
+DEBUG: [2024-11-18 18:57:36,552]: no new boxes found
+DEBUG: [2024-11-18 18:57:36,722]: no new boxes found
+DEBUG: [2024-11-18 18:57:36,893]: no new boxes found
+DEBUG: [2024-11-18 18:57:37,093]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:57:38,501]: no new boxes found
+DEBUG: [2024-11-18 18:57:38,669]: no new boxes found
+DEBUG: [2024-11-18 18:57:38,903]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:57:40,266]: no new boxes found
+DEBUG: [2024-11-18 18:57:40,432]: no new boxes found
+DEBUG: [2024-11-18 18:57:40,666]: Written sensor data to disk, number of BBs: 2
+DEBUG: [2024-11-18 18:57:42,032]: no new boxes found
+DEBUG: [2024-11-18 18:57:42,189]: no new boxes found
+DEBUG: [2024-11-18 18:57:42,418]: Written sensor data to disk, number of BBs: 3
+DEBUG: [2024-11-18 18:57:43,796]: no new boxes found
+DEBUG: [2024-11-18 18:57:43,967]: no new boxes found
+DEBUG: [2024-11-18 18:57:44,188]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:57:45,541]: no new boxes found
+DEBUG: [2024-11-18 18:57:45,703]: no new boxes found
+DEBUG: [2024-11-18 18:57:45,939]: Written sensor data to disk, number of BBs: 3
+DEBUG: [2024-11-18 18:57:47,257]: no new boxes found
+DEBUG: [2024-11-18 18:57:47,411]: no new boxes found
+DEBUG: [2024-11-18 18:57:47,647]: Written sensor data to disk, number of BBs: 2
+DEBUG: [2024-11-18 18:57:48,908]: no new boxes found
+DEBUG: [2024-11-18 18:57:49,064]: no new boxes found
+DEBUG: [2024-11-18 18:57:49,297]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:57:50,526]: no new boxes found
+DEBUG: [2024-11-18 18:57:50,676]: no new boxes found
+DEBUG: [2024-11-18 18:57:50,897]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:57:52,126]: no new boxes found
+DEBUG: [2024-11-18 18:57:52,268]: no new boxes found
+DEBUG: [2024-11-18 18:57:52,415]: no new boxes found
+DEBUG: [2024-11-18 18:57:52,563]: no new boxes found
+DEBUG: [2024-11-18 18:57:52,709]: no new boxes found
+DEBUG: [2024-11-18 18:57:52,852]: no new boxes found
+DEBUG: [2024-11-18 18:57:52,998]: no new boxes found
+DEBUG: [2024-11-18 18:57:53,140]: no new boxes found
+DEBUG: [2024-11-18 18:57:53,281]: no new boxes found
+DEBUG: [2024-11-18 18:57:53,422]: no new boxes found
+DEBUG: [2024-11-18 18:57:53,570]: no new boxes found
+DEBUG: [2024-11-18 18:57:53,722]: no new boxes found
+DEBUG: [2024-11-18 18:57:53,876]: no new boxes found
+DEBUG: [2024-11-18 18:57:54,016]: no new boxes found
+DEBUG: [2024-11-18 18:57:54,153]: no new boxes found
+DEBUG: [2024-11-18 18:57:54,295]: no new boxes found
+DEBUG: [2024-11-18 18:57:54,443]: no new boxes found
+DEBUG: [2024-11-18 18:57:54,589]: no new boxes found
+DEBUG: [2024-11-18 18:57:54,728]: no new boxes found
+DEBUG: [2024-11-18 18:57:54,871]: no new boxes found
+DEBUG: [2024-11-18 18:57:55,004]: no new boxes found
+DEBUG: [2024-11-18 18:57:55,145]: no new boxes found
+DEBUG: [2024-11-18 18:57:55,279]: no new boxes found
+DEBUG: [2024-11-18 18:57:55,416]: no new boxes found
+DEBUG: [2024-11-18 18:57:55,556]: no new boxes found
+DEBUG: [2024-11-18 18:57:55,689]: no new boxes found
+DEBUG: [2024-11-18 18:57:55,823]: no new boxes found
+DEBUG: [2024-11-18 18:57:55,959]: no new boxes found
+DEBUG: [2024-11-18 18:57:56,091]: no new boxes found
+DEBUG: [2024-11-18 18:57:56,230]: no new boxes found
+DEBUG: [2024-11-18 18:57:56,366]: no new boxes found
+DEBUG: [2024-11-18 18:57:56,507]: no new boxes found
+DEBUG: [2024-11-18 18:57:56,639]: no new boxes found
+DEBUG: [2024-11-18 18:57:56,772]: no new boxes found
+DEBUG: [2024-11-18 18:57:56,910]: no new boxes found
+DEBUG: [2024-11-18 18:57:57,040]: no new boxes found
+DEBUG: [2024-11-18 18:57:57,179]: no new boxes found
+DEBUG: [2024-11-18 18:57:57,311]: no new boxes found
+DEBUG: [2024-11-18 18:57:57,442]: no new boxes found
+DEBUG: [2024-11-18 18:57:57,574]: no new boxes found
+DEBUG: [2024-11-18 18:57:57,708]: no new boxes found
+DEBUG: [2024-11-18 18:57:57,845]: no new boxes found
+DEBUG: [2024-11-18 18:57:57,976]: no new boxes found
+DEBUG: [2024-11-18 18:57:58,110]: no new boxes found
+DEBUG: [2024-11-18 18:57:58,243]: no new boxes found
+DEBUG: [2024-11-18 18:57:58,387]: no new boxes found
+DEBUG: [2024-11-18 18:57:58,520]: no new boxes found
+DEBUG: [2024-11-18 18:57:58,656]: no new boxes found
+DEBUG: [2024-11-18 18:57:58,883]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:57:59,961]: no new boxes found
+DEBUG: [2024-11-18 18:58:00,096]: no new boxes found
+DEBUG: [2024-11-18 18:58:00,334]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:58:01,415]: no new boxes found
+DEBUG: [2024-11-18 18:58:01,562]: no new boxes found
+DEBUG: [2024-11-18 18:58:01,795]: Written sensor data to disk, number of BBs: 2
+DEBUG: [2024-11-18 18:58:02,875]: no new boxes found
+DEBUG: [2024-11-18 18:58:03,003]: no new boxes found
+DEBUG: [2024-11-18 18:58:03,213]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:58:04,300]: no new boxes found
+DEBUG: [2024-11-18 18:58:04,437]: no new boxes found
+DEBUG: [2024-11-18 18:58:04,675]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:58:05,736]: no new boxes found
+DEBUG: [2024-11-18 18:58:05,874]: no new boxes found
+DEBUG: [2024-11-18 18:58:06,089]: Written sensor data to disk, number of BBs: 6
+DEBUG: [2024-11-18 18:58:07,172]: no new boxes found
+DEBUG: [2024-11-18 18:58:07,307]: no new boxes found
+DEBUG: [2024-11-18 18:58:07,527]: Written sensor data to disk, number of BBs: 3
+DEBUG: [2024-11-18 18:58:08,635]: no new boxes found
+DEBUG: [2024-11-18 18:58:08,799]: no new boxes found
+DEBUG: [2024-11-18 18:58:09,040]: Written sensor data to disk, number of BBs: 1
+DEBUG: [2024-11-18 18:58:10,106]: no new boxes found
+DEBUG: [2024-11-18 18:58:11,197]: no new boxes found
+DEBUG: [2024-11-18 18:58:12,293]: no new boxes found
+DEBUG: [2024-11-18 18:58:13,361]: no new boxes found
+DEBUG: [2024-11-18 18:58:14,415]: no new boxes found
+DEBUG: [2024-11-18 18:58:15,469]: no new boxes found
+DEBUG: [2024-11-18 18:58:16,534]: no new boxes found
+DEBUG: [2024-11-18 18:58:17,647]: no new boxes found
+DEBUG: [2024-11-18 18:58:18,706]: no new boxes found
+DEBUG: [2024-11-18 18:58:19,756]: no new boxes found
+DEBUG: [2024-11-18 18:58:20,841]: no new boxes found
+DEBUG: [2024-11-18 18:58:21,913]: no new boxes found
+DEBUG: [2024-11-18 18:58:23,008]: no new boxes found
+DEBUG: [2024-11-18 18:58:24,141]: no new boxes found
+DEBUG: [2024-11-18 18:58:25,222]: no new boxes found
+DEBUG: [2024-11-18 18:58:26,315]: no new boxes found
+DEBUG: [2024-11-18 18:58:27,396]: no new boxes found
+DEBUG: [2024-11-18 18:58:28,566]: no new boxes found
+DEBUG: [2024-11-18 18:58:29,647]: no new boxes found
+DEBUG: [2024-11-18 18:58:30,698]: no new boxes found
+DEBUG: [2024-11-18 18:58:31,790]: no new boxes found
+DEBUG: [2024-11-18 18:58:32,885]: no new boxes found
+DEBUG: [2024-11-18 18:58:34,011]: no new boxes found
+DEBUG: [2024-11-18 18:58:34,147]: no new boxes found
+DEBUG: [2024-11-18 18:58:34,389]: Written sensor data to disk, number of BBs: 4
+DEBUG: [2024-11-18 18:58:35,471]: no new boxes found
+DEBUG: [2024-11-18 18:58:35,628]: no new boxes found
+DEBUG: [2024-11-18 18:58:35,775]: no new boxes found
+DEBUG: [2024-11-18 18:58:35,905]: no new boxes found
+DEBUG: [2024-11-18 18:58:36,057]: no new boxes found
+DEBUG: [2024-11-18 18:58:36,190]: no new boxes found
+DEBUG: [2024-11-18 18:58:36,324]: no new boxes found
+DEBUG: [2024-11-18 18:58:36,454]: no new boxes found
+DEBUG: [2024-11-18 18:58:36,587]: no new boxes found
+DEBUG: [2024-11-18 18:58:36,732]: no new boxes found
+DEBUG: [2024-11-18 18:58:36,860]: no new boxes found
+DEBUG: [2024-11-18 18:58:36,992]: no new boxes found
+DEBUG: [2024-11-18 18:58:37,121]: no new boxes found
+DEBUG: [2024-11-18 18:58:37,248]: no new boxes found
+DEBUG: [2024-11-18 18:58:37,381]: no new boxes found
+DEBUG: [2024-11-18 18:58:37,521]: no new boxes found
+DEBUG: [2024-11-18 18:58:37,657]: no new boxes found
+DEBUG: [2024-11-18 18:58:37,785]: no new boxes found
+DEBUG: [2024-11-18 18:58:37,916]: no new boxes found
+DEBUG: [2024-11-18 18:58:38,058]: no new boxes found
+DEBUG: [2024-11-18 18:58:38,297]: Written sensor data to disk, number of BBs: 3
+DEBUG: [2024-11-18 18:58:39,347]: no new boxes found
+DEBUG: [2024-11-18 18:58:39,483]: no new boxes found
+DEBUG: [2024-11-18 18:58:39,611]: no new boxes found
+DEBUG: [2024-11-18 18:58:39,746]: no new boxes found
+DEBUG: [2024-11-18 18:58:39,872]: no new boxes found
+DEBUG: [2024-11-18 18:58:40,030]: no new boxes found
+DEBUG: [2024-11-18 18:58:40,162]: no new boxes found
+DEBUG: [2024-11-18 18:58:40,296]: no new boxes found
+DEBUG: [2024-11-18 18:58:40,433]: no new boxes found
+DEBUG: [2024-11-18 18:58:40,565]: no new boxes found
+DEBUG: [2024-11-18 18:58:40,835]: Written sensor data to disk, number of BBs: 5
+DEBUG: [2024-11-18 18:58:41,913]: no new boxes found
+DEBUG: [2024-11-18 18:58:42,054]: no new boxes found
+DEBUG: [2024-11-18 18:58:42,276]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 18:58:43,379]: no new boxes found
+DEBUG: [2024-11-18 18:58:43,518]: no new boxes found
+DEBUG: [2024-11-18 18:58:43,740]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:58:44,829]: no new boxes found
+DEBUG: [2024-11-18 18:58:44,969]: no new boxes found
+DEBUG: [2024-11-18 18:58:45,208]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 18:58:46,292]: no new boxes found
+DEBUG: [2024-11-18 18:58:46,428]: no new boxes found
+DEBUG: [2024-11-18 18:58:46,664]: Written sensor data to disk, number of BBs: 10
+DEBUG: [2024-11-18 18:58:47,754]: no new boxes found
+DEBUG: [2024-11-18 18:58:47,894]: no new boxes found
+DEBUG: [2024-11-18 18:58:48,149]: Written sensor data to disk, number of BBs: 10
+DEBUG: [2024-11-18 18:58:49,236]: no new boxes found
+DEBUG: [2024-11-18 18:58:50,322]: no new boxes found
+DEBUG: [2024-11-18 18:58:50,910]: no new boxes found
+DEBUG: [2024-11-18 18:58:51,154]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 18:58:52,248]: no new boxes found
+DEBUG: [2024-11-18 18:58:52,395]: no new boxes found
+DEBUG: [2024-11-18 18:58:52,606]: Written sensor data to disk, number of BBs: 12
+DEBUG: [2024-11-18 18:58:53,728]: no new boxes found
+DEBUG: [2024-11-18 18:58:54,833]: no new boxes found
+DEBUG: [2024-11-18 18:58:55,930]: no new boxes found
+DEBUG: [2024-11-18 18:58:57,035]: no new boxes found
+DEBUG: [2024-11-18 18:58:58,136]: no new boxes found
+DEBUG: [2024-11-18 18:58:59,246]: no new boxes found
+DEBUG: [2024-11-18 18:59:00,360]: no new boxes found
+DEBUG: [2024-11-18 18:59:01,490]: no new boxes found
+DEBUG: [2024-11-18 18:59:02,599]: no new boxes found
+DEBUG: [2024-11-18 18:59:03,747]: no new boxes found
+DEBUG: [2024-11-18 18:59:04,909]: no new boxes found
+DEBUG: [2024-11-18 18:59:06,025]: no new boxes found
+DEBUG: [2024-11-18 18:59:07,128]: no new boxes found
+DEBUG: [2024-11-18 18:59:08,248]: no new boxes found
+DEBUG: [2024-11-18 18:59:09,343]: no new boxes found
+DEBUG: [2024-11-18 18:59:10,442]: no new boxes found
+DEBUG: [2024-11-18 18:59:11,577]: no new boxes found
+DEBUG: [2024-11-18 18:59:12,170]: no new boxes found
+DEBUG: [2024-11-18 18:59:12,392]: Written sensor data to disk, number of BBs: 16
+DEBUG: [2024-11-18 18:59:13,503]: no new boxes found
+DEBUG: [2024-11-18 18:59:13,660]: no new boxes found
+DEBUG: [2024-11-18 18:59:13,881]: Written sensor data to disk, number of BBs: 15
+DEBUG: [2024-11-18 18:59:14,980]: no new boxes found
+DEBUG: [2024-11-18 18:59:15,123]: no new boxes found
+DEBUG: [2024-11-18 18:59:15,336]: Written sensor data to disk, number of BBs: 18
+DEBUG: [2024-11-18 18:59:16,466]: no new boxes found
+DEBUG: [2024-11-18 18:59:16,620]: no new boxes found
+DEBUG: [2024-11-18 18:59:16,868]: Written sensor data to disk, number of BBs: 13
+DEBUG: [2024-11-18 18:59:17,995]: no new boxes found
+DEBUG: [2024-11-18 18:59:19,120]: no new boxes found
+DEBUG: [2024-11-18 18:59:20,287]: no new boxes found
+DEBUG: [2024-11-18 18:59:21,406]: no new boxes found
+DEBUG: [2024-11-18 18:59:22,520]: no new boxes found
+DEBUG: [2024-11-18 18:59:23,656]: no new boxes found
+DEBUG: [2024-11-18 18:59:24,796]: no new boxes found
+DEBUG: [2024-11-18 18:59:25,928]: no new boxes found
+DEBUG: [2024-11-18 18:59:27,089]: no new boxes found
+DEBUG: [2024-11-18 18:59:28,224]: no new boxes found
+DEBUG: [2024-11-18 18:59:29,366]: no new boxes found
+DEBUG: [2024-11-18 18:59:30,497]: no new boxes found
+DEBUG: [2024-11-18 18:59:31,628]: no new boxes found
+DEBUG: [2024-11-18 18:59:32,763]: no new boxes found
+DEBUG: [2024-11-18 18:59:33,895]: no new boxes found
+DEBUG: [2024-11-18 18:59:35,021]: no new boxes found
+DEBUG: [2024-11-18 18:59:36,145]: no new boxes found
+DEBUG: [2024-11-18 18:59:37,293]: no new boxes found
+DEBUG: [2024-11-18 18:59:38,457]: no new boxes found
+DEBUG: [2024-11-18 18:59:39,080]: no new boxes found
+DEBUG: [2024-11-18 18:59:39,315]: Written sensor data to disk, number of BBs: 16
+DEBUG: [2024-11-18 18:59:40,459]: no new boxes found
+DEBUG: [2024-11-18 18:59:40,601]: no new boxes found
+DEBUG: [2024-11-18 18:59:40,851]: Written sensor data to disk, number of BBs: 16
+INFO: [2024-11-18 18:59:42,161]: ----------SETTINGS----------
+INFO: [2024-11-18 18:59:42,161]: Map: /Game/Carla/Maps/Town10HD
+INFO: [2024-11-18 18:59:42,161]: Number of vehicles: 153
+INFO: [2024-11-18 18:59:42,161]: Number of parking vehicles: 371
+INFO: [2024-11-18 18:59:42,161]: Number of props: 0
+INFO: [2024-11-18 18:59:42,161]: Number of pedestrians: 0
+INFO: [2024-11-18 18:59:42,161]: Sensor image width: 1242px
+INFO: [2024-11-18 18:59:42,161]: Sensor image height: 375px
+INFO: [2024-11-18 18:59:42,161]: Sensor field of view: 82.59
+INFO: [2024-11-18 18:59:42,161]: Total number of frames to be saved: 100
+INFO: [2024-11-18 18:59:42,161]: Save data to disk: True
+INFO: [2024-11-18 18:59:42,161]: Save bounding box to camera image 0: False
+INFO: [2024-11-18 18:59:42,161]: ----------SETTINGS----------
+WARNING: Version mismatch detected: You are trying to connect to a simulator that might be incompatible with this API 
+WARNING: Client API version     = 0.9.15-dirty 
+WARNING: Simulator API version  = 0.9.15-1-g614d4338c 
+DEBUG: [2024-11-18 18:59:46,867]: Spawned 84 parking vehicles.
+DEBUG: [2024-11-18 18:59:46,874]: Spawned 0 props.
+ERROR: [2024-11-18 18:59:47,199]: Spawn failed because of collision at spawn position
+DEBUG: [2024-11-18 18:59:47,611]: Spawned 152 vehicles, 0 walkers.
+DEBUG: [2024-11-18 18:59:47,850]: no new boxes found
+DEBUG: [2024-11-18 18:59:49,518]: no new boxes found
+DEBUG: [2024-11-18 18:59:49,823]: Written sensor data to disk, number of BBs: 25
+DEBUG: [2024-11-18 18:59:51,517]: no new boxes found
+DEBUG: [2024-11-18 18:59:51,690]: no new boxes found
+DEBUG: [2024-11-18 18:59:51,973]: Written sensor data to disk, number of BBs: 12
+DEBUG: [2024-11-18 18:59:53,477]: no new boxes found
+DEBUG: [2024-11-18 18:59:53,661]: no new boxes found
+DEBUG: [2024-11-18 18:59:53,923]: Written sensor data to disk, number of BBs: 18
+DEBUG: [2024-11-18 18:59:55,467]: no new boxes found
+DEBUG: [2024-11-18 18:59:55,667]: no new boxes found
+DEBUG: [2024-11-18 18:59:55,943]: Written sensor data to disk, number of BBs: 19
+DEBUG: [2024-11-18 18:59:57,570]: no new boxes found
+DEBUG: [2024-11-18 18:59:58,104]: no new boxes found
+DEBUG: [2024-11-18 18:59:58,382]: Written sensor data to disk, number of BBs: 17
+DEBUG: [2024-11-18 18:59:59,978]: no new boxes found
+DEBUG: [2024-11-18 19:00:00,178]: no new boxes found
+DEBUG: [2024-11-18 19:00:00,466]: Written sensor data to disk, number of BBs: 16
+DEBUG: [2024-11-18 19:00:01,939]: no new boxes found
+DEBUG: [2024-11-18 19:00:02,104]: no new boxes found
+DEBUG: [2024-11-18 19:00:02,385]: Written sensor data to disk, number of BBs: 8
+DEBUG: [2024-11-18 19:00:03,820]: no new boxes found
+DEBUG: [2024-11-18 19:00:04,175]: no new boxes found
+DEBUG: [2024-11-18 19:00:04,436]: Written sensor data to disk, number of BBs: 10
+DEBUG: [2024-11-18 19:00:05,848]: no new boxes found
+DEBUG: [2024-11-18 19:00:06,015]: no new boxes found
+DEBUG: [2024-11-18 19:00:06,296]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 19:00:07,698]: no new boxes found
+DEBUG: [2024-11-18 19:00:09,093]: no new boxes found
+DEBUG: [2024-11-18 19:00:10,549]: no new boxes found
+DEBUG: [2024-11-18 19:00:12,023]: no new boxes found
+DEBUG: [2024-11-18 19:00:13,554]: no new boxes found
+DEBUG: [2024-11-18 19:00:15,050]: no new boxes found
+DEBUG: [2024-11-18 19:00:16,592]: no new boxes found
+DEBUG: [2024-11-18 19:00:18,103]: no new boxes found
+DEBUG: [2024-11-18 19:00:19,602]: no new boxes found
+DEBUG: [2024-11-18 19:00:21,106]: no new boxes found
+DEBUG: [2024-11-18 19:00:22,622]: no new boxes found
+DEBUG: [2024-11-18 19:00:24,138]: no new boxes found
+DEBUG: [2024-11-18 19:00:25,639]: no new boxes found
+DEBUG: [2024-11-18 19:00:27,169]: no new boxes found
+DEBUG: [2024-11-18 19:00:28,720]: no new boxes found
+DEBUG: [2024-11-18 19:00:30,219]: no new boxes found
+DEBUG: [2024-11-18 19:00:31,726]: no new boxes found
+DEBUG: [2024-11-18 19:00:33,197]: no new boxes found
+DEBUG: [2024-11-18 19:00:34,703]: no new boxes found
+DEBUG: [2024-11-18 19:00:36,204]: no new boxes found
+DEBUG: [2024-11-18 19:00:37,720]: no new boxes found
+DEBUG: [2024-11-18 19:00:39,210]: no new boxes found
+DEBUG: [2024-11-18 19:00:40,709]: no new boxes found
+DEBUG: [2024-11-18 19:00:42,216]: no new boxes found
+DEBUG: [2024-11-18 19:00:43,686]: no new boxes found
+DEBUG: [2024-11-18 19:00:45,187]: no new boxes found
+DEBUG: [2024-11-18 19:00:46,679]: no new boxes found
+DEBUG: [2024-11-18 19:00:48,181]: no new boxes found
+DEBUG: [2024-11-18 19:00:49,720]: no new boxes found
+DEBUG: [2024-11-18 19:00:51,233]: no new boxes found
+DEBUG: [2024-11-18 19:00:52,754]: no new boxes found
+DEBUG: [2024-11-18 19:00:54,319]: no new boxes found
+DEBUG: [2024-11-18 19:00:55,862]: no new boxes found
+DEBUG: [2024-11-18 19:00:57,404]: no new boxes found
+DEBUG: [2024-11-18 19:00:57,656]: Written sensor data to disk, number of BBs: 8
+DEBUG: [2024-11-18 19:00:59,165]: no new boxes found
+DEBUG: [2024-11-18 19:00:59,342]: no new boxes found
+DEBUG: [2024-11-18 19:00:59,610]: Written sensor data to disk, number of BBs: 9
+DEBUG: [2024-11-18 19:01:00,975]: no new boxes found
+DEBUG: [2024-11-18 19:01:01,139]: no new boxes found
+DEBUG: [2024-11-18 19:01:01,427]: Written sensor data to disk, number of BBs: 8
+DEBUG: [2024-11-18 19:01:02,711]: no new boxes found
+DEBUG: [2024-11-18 19:01:02,874]: no new boxes found
+DEBUG: [2024-11-18 19:01:03,168]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 19:01:04,415]: no new boxes found
+DEBUG: [2024-11-18 19:01:04,582]: no new boxes found
+DEBUG: [2024-11-18 19:01:04,884]: Written sensor data to disk, number of BBs: 14
+DEBUG: [2024-11-18 19:01:06,093]: no new boxes found
+DEBUG: [2024-11-18 19:01:06,252]: no new boxes found
+DEBUG: [2024-11-18 19:01:06,563]: Written sensor data to disk, number of BBs: 15
+DEBUG: [2024-11-18 19:01:07,761]: no new boxes found
+DEBUG: [2024-11-18 19:01:07,917]: no new boxes found
+DEBUG: [2024-11-18 19:01:08,199]: Written sensor data to disk, number of BBs: 13
+DEBUG: [2024-11-18 19:01:09,402]: no new boxes found
+DEBUG: [2024-11-18 19:01:09,555]: no new boxes found
+DEBUG: [2024-11-18 19:01:09,817]: Written sensor data to disk, number of BBs: 7
+DEBUG: [2024-11-18 19:01:11,058]: no new boxes found
+DEBUG: [2024-11-18 19:01:11,217]: no new boxes found
+DEBUG: [2024-11-18 19:01:11,511]: Written sensor data to disk, number of BBs: 11
+DEBUG: [2024-11-18 19:01:12,812]: no new boxes found
+DEBUG: [2024-11-18 19:01:12,974]: no new boxes found
+DEBUG: [2024-11-18 19:01:13,258]: Written sensor data to disk, number of BBs: 16
+DEBUG: [2024-11-18 19:01:14,558]: no new boxes found
+DEBUG: [2024-11-18 19:01:14,726]: no new boxes found
+DEBUG: [2024-11-18 19:01:15,011]: Written sensor data to disk, number of BBs: 14
+DEBUG: [2024-11-18 19:01:16,338]: no new boxes found
+DEBUG: [2024-11-18 19:01:16,502]: no new boxes found
+DEBUG: [2024-11-18 19:01:16,765]: Written sensor data to disk, number of BBs: 2
+DEBUG: [2024-11-18 19:01:18,290]: no new boxes found
+DEBUG: [2024-11-18 19:01:18,500]: no new boxes found
+DEBUG: [2024-11-18 19:01:18,776]: Written sensor data to disk, number of BBs: 14
+DEBUG: [2024-11-18 19:01:20,335]: no new boxes found
+DEBUG: [2024-11-18 19:01:20,570]: no new boxes found
+DEBUG: [2024-11-18 19:01:20,832]: Written sensor data to disk, number of BBs: 16
+DEBUG: [2024-11-18 19:01:22,437]: no new boxes found
+DEBUG: [2024-11-18 19:01:22,631]: no new boxes found
+DEBUG: [2024-11-18 19:01:22,887]: Written sensor data to disk, number of BBs: 14
+DEBUG: [2024-11-18 19:01:24,399]: no new boxes found
+DEBUG: [2024-11-18 19:01:24,596]: no new boxes found
+DEBUG: [2024-11-18 19:01:24,853]: Written sensor data to disk, number of BBs: 14
+DEBUG: [2024-11-18 19:01:26,348]: no new boxes found
+DEBUG: [2024-11-18 19:01:27,878]: no new boxes found
+DEBUG: [2024-11-18 19:01:29,433]: no new boxes found
+DEBUG: [2024-11-18 19:01:31,064]: no new boxes found
+DEBUG: [2024-11-18 19:01:32,653]: no new boxes found
+DEBUG: [2024-11-18 19:01:34,257]: no new boxes found
+DEBUG: [2024-11-18 19:01:35,901]: no new boxes found
+DEBUG: [2024-11-18 19:01:37,534]: no new boxes found
+DEBUG: [2024-11-18 19:01:39,133]: no new boxes found
+DEBUG: [2024-11-18 19:01:40,777]: no new boxes found
+DEBUG: [2024-11-18 19:01:42,429]: no new boxes found
+DEBUG: [2024-11-18 19:01:44,090]: no new boxes found
+DEBUG: [2024-11-18 19:01:45,704]: no new boxes found
+DEBUG: [2024-11-18 19:01:47,335]: no new boxes found
+DEBUG: [2024-11-18 19:01:48,970]: no new boxes found
+DEBUG: [2024-11-18 19:01:50,552]: no new boxes found
+DEBUG: [2024-11-18 19:01:52,187]: no new boxes found
+DEBUG: [2024-11-18 19:01:53,752]: no new boxes found
+DEBUG: [2024-11-18 19:01:55,378]: no new boxes found
+DEBUG: [2024-11-18 19:01:56,966]: no new boxes found
+DEBUG: [2024-11-18 19:01:58,602]: no new boxes found
+DEBUG: [2024-11-18 19:02:00,176]: no new boxes found
+DEBUG: [2024-11-18 19:02:01,768]: no new boxes found
+DEBUG: [2024-11-18 19:02:03,418]: no new boxes found
+DEBUG: [2024-11-18 19:02:04,986]: no new boxes found
+DEBUG: [2024-11-18 19:02:06,574]: no new boxes found
+DEBUG: [2024-11-18 19:02:08,209]: no new boxes found
+DEBUG: [2024-11-18 19:02:09,847]: no new boxes found
+DEBUG: [2024-11-18 19:02:11,479]: no new boxes found
+DEBUG: [2024-11-18 19:02:13,111]: no new boxes found
+DEBUG: [2024-11-18 19:02:14,789]: no new boxes found
+DEBUG: [2024-11-18 19:02:16,568]: no new boxes found
+DEBUG: [2024-11-18 19:02:18,176]: no new boxes found
+DEBUG: [2024-11-18 19:02:19,799]: no new boxes found
+DEBUG: [2024-11-18 19:02:21,380]: no new boxes found
+DEBUG: [2024-11-18 19:02:23,007]: no new boxes found
+DEBUG: [2024-11-18 19:02:24,651]: no new boxes found
+DEBUG: [2024-11-18 19:02:26,249]: no new boxes found
+DEBUG: [2024-11-18 19:02:27,851]: no new boxes found
+DEBUG: [2024-11-18 19:02:29,514]: no new boxes found
+DEBUG: [2024-11-18 19:02:31,106]: no new boxes found
+DEBUG: [2024-11-18 19:02:32,776]: no new boxes found
+DEBUG: [2024-11-18 19:02:34,456]: no new boxes found
+DEBUG: [2024-11-18 19:02:36,041]: no new boxes found
+DEBUG: [2024-11-18 19:02:37,635]: no new boxes found
+DEBUG: [2024-11-18 19:02:39,272]: no new boxes found
+DEBUG: [2024-11-18 19:02:40,888]: no new boxes found
+DEBUG: [2024-11-18 19:02:42,488]: no new boxes found
+DEBUG: [2024-11-18 19:02:44,033]: no new boxes found
+DEBUG: [2024-11-18 19:02:45,747]: no new boxes found
+DEBUG: [2024-11-18 19:02:47,322]: no new boxes found
+DEBUG: [2024-11-18 19:02:48,915]: no new boxes found
+DEBUG: [2024-11-18 19:02:50,494]: no new boxes found
+DEBUG: [2024-11-18 19:02:52,069]: no new boxes found
+DEBUG: [2024-11-18 19:02:53,749]: no new boxes found
+DEBUG: [2024-11-18 19:02:55,406]: no new boxes found
+DEBUG: [2024-11-18 19:02:57,006]: no new boxes found
+DEBUG: [2024-11-18 19:02:58,638]: no new boxes found
+DEBUG: [2024-11-18 19:03:00,263]: no new boxes found
+DEBUG: [2024-11-18 19:03:01,907]: no new boxes found
+DEBUG: [2024-11-18 19:03:03,543]: no new boxes found
+DEBUG: [2024-11-18 19:03:05,136]: no new boxes found
+DEBUG: [2024-11-18 19:03:06,798]: no new boxes found
+DEBUG: [2024-11-18 19:03:08,464]: no new boxes found
+DEBUG: [2024-11-18 19:03:10,078]: no new boxes found
+DEBUG: [2024-11-18 19:03:11,653]: no new boxes found
+DEBUG: [2024-11-18 19:03:13,295]: no new boxes found
+DEBUG: [2024-11-18 19:03:14,867]: no new boxes found
+DEBUG: [2024-11-18 19:03:16,447]: no new boxes found
+DEBUG: [2024-11-18 19:03:18,065]: no new boxes found
+DEBUG: [2024-11-18 19:03:19,696]: no new boxes found
+DEBUG: [2024-11-18 19:03:21,284]: no new boxes found
+DEBUG: [2024-11-18 19:03:22,864]: no new boxes found
+DEBUG: [2024-11-18 19:03:24,472]: no new boxes found
+DEBUG: [2024-11-18 19:03:26,025]: no new boxes found
+DEBUG: [2024-11-18 19:03:27,661]: no new boxes found
+DEBUG: [2024-11-18 19:03:29,346]: no new boxes found
+DEBUG: [2024-11-18 19:03:30,944]: no new boxes found
+DEBUG: [2024-11-18 19:03:32,550]: no new boxes found
+DEBUG: [2024-11-18 19:03:34,089]: no new boxes found
+DEBUG: [2024-11-18 19:03:35,657]: no new boxes found
+DEBUG: [2024-11-18 19:03:37,261]: no new boxes found
+DEBUG: [2024-11-18 19:03:38,818]: no new boxes found

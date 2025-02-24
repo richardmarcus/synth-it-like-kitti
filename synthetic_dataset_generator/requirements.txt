@@ -1,0 +1,4 @@
+numpy
+carla
+pillow
+opencv-python
