@@ -49,7 +49,7 @@ OpenPCDet
 ```
 
 ### Configuring the Training
-(OpenPCDet)[https://github.com/open-mmlab/OpenPCDet] is a good starting point for training and evaluating different 3D object detection models, but other code bases that work with KITTI data should also be compatible. 
+[OpenPCDet](https://github.com/open-mmlab/OpenPCDet) is a good starting point for training and evaluating different 3D object detection models, but other code bases that work with KITTI data should also be compatible. 
 We have used Voxel R-CNN in our paper and you can use the checkpoint from the model zoo to evaluate on the synthetic dataset.
 Alternatively, you can train on the synthetic data from scratch or finetune the checkpoint.
 
