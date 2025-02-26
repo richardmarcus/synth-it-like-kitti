@@ -78,7 +78,7 @@ Run ```synthetic_dataset_generator/stable_simulate.sh <path_to_CarlaUE4.sh> <pat
 
 ### Data Processing
 1. Run ```process_carla.py --base_path <carla_output_folder>```
-2. Run ```merge_sequences.py --source_path <carla_output_folder> --destination_path <folder_to_store_final_dataset```
+2. Run ```merge_sequences.py --source_path <carla_output_folder> --destination_path <folder_to_store_final_dataset>```
 3. (Create ImageSets folder, which contains .txt files for the training, validation and testing splits. You can use custom_image_sets.py as reference)
 
 
