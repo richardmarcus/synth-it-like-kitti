@@ -1,10 +1,16 @@
 # Synth It Like Kitti
+<p float="left">
+  <img src="/ex1.png" width="100" />
+  <img src="/ex2.png" width="100" /> 
+  <img src="/ex3.png" width="100" />
+</p>
+
 ## Abstract
 An important factor in advancing autonomous driving systems is simulation. Yet, there is rather small progress for transferability between the virtual and real world. We revisit this problem for 3D object detection on LiDAR point clouds and propose a dataset generation pipeline based on the CARLA simulator. Utilizing domain randomization strategies and careful modeling, we are able to train an object detector on the synthetic data and demonstrate strong generalization capabilities to the KITTI dataset. Furthermore, we compare different virtual sensor variants to gather insights, which sensor attributes can be responsible for the prevalent domain gap. Finally, fine-tuning with a small portion of real data almost matches the baseline and with the full training set slightly surpasses it.
 
 [Paper](https://arxiv.org/abs/2502.15076)
 
-Citation (Preprint)
+##Citation (Preprint)
 ```
 @misc{marcus2025synth,
     title={Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios},
