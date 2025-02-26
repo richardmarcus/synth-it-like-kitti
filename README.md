@@ -1,8 +1,9 @@
 # Synth It Like Kitti
 <p float="left">
-  <img src="/ex1.png" width="100" />
-  <img src="/ex2.png" width="100" /> 
-  <img src="/ex3.png" width="100" />
+  <img src="/ex1.png" height="140" />
+  <img src="/ex2.png" height="140" /> 
+  <img src="/ex3.png" height="140" />
+  <img src="/ex4.png" height="140" />
 </p>
 
 ## Abstract
