@@ -11,7 +11,7 @@ An important factor in advancing autonomous driving systems is simulation. Yet, 
 
 [Paper](https://arxiv.org/abs/2502.15076)
 
-##Citation (Preprint)
+## Citation (Preprint)
 ```
 @misc{marcus2025synth,
     title={Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios},
