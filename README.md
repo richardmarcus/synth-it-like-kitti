@@ -11,16 +11,25 @@ An important factor in advancing autonomous driving systems is simulation. Yet, 
 
 [Paper](https://arxiv.org/abs/2502.15076)
 
-## Citation (Preprint)
+## Citation
 ```
-@misc{marcus2025synth,
-    title={Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios},
-    author={Richard Marcus and Christian Vogel and Inga Jatzkowski and Niklas Knoop and Marc Stamminger},
-    year={2025},
-    eprint={2502.15076},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-} 
+@InProceedings{10.1007/978-3-032-00986-9_27,
+author="Marcus, Richard
+and Vogel, Christian
+and Jatzkowski, Inga
+and Knoop, Niklas
+and Stamminger, Marc",
+editor="R{\"o}ning, Juha
+and Filipe, Joaquim",
+title="Synth it Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios",
+booktitle="Robotics, Computer Vision and Intelligent Systems",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="414--432",
+abstract="An important factor in advancing autonomous driving systems is simulation. Yet, there is rather small progress for transferability between the virtual and real world. We revisit this problem for 3D object detection on LiDAR point clouds and propose a dataset generation pipeline based on the CARLA simulator. Utilizing domain randomization strategies and careful modeling, we are able to train an object detector on the synthetic data and demonstrate strong generalization capabilities to the KITTI dataset. Furthermore, we compare different virtual sensor variants to gather insights, which sensor attributes can be responsible for the prevalent domain gap. Finally, fine-tuning with a small portion of real data almost matches the baseline and with the full training set slightly surpasses it.",
+isbn="978-3-032-00986-9"
+}
 ```
 
 
